@@ -1,4 +1,0 @@
-Raspberry Pi 4 4GB
-ESR 32
-Teensee
-RPLIDAR-A1

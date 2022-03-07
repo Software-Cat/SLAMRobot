@@ -1,0 +1,3 @@
+Raspberry Pi 4
+ESR 32
+Teensee
